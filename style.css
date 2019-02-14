@@ -1,0 +1,33 @@
+body{
+    background: url(Homepage.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    min-width: 100;
+    overflow: auto;
+}
+.row {
+    position: absolute;
+    top:43%;
+    left:15%;
+}
+
+.{
+    position: absolute;
+}
+
+.row .about a{
+    height:217px;
+    width:687px;
+    font-size: 120px;
+    border-radius: 60px;
+    background: #f24444;
+}
+
+.row .contact a{
+    height:217px;
+    width:687px;
+    font-size: 120px;
+    border-radius: 60px;
+    background: #f24444;
+    position: absolute;
+}
